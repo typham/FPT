@@ -1,0 +1,9 @@
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\FPT.Model.dll.config
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\FPT.Model.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\FPT.Model.pdb
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\EntityFramework.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\EntityFramework.xml
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\obj\Debug\FPT.Model.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Model\obj\Debug\FPT.Model.pdb

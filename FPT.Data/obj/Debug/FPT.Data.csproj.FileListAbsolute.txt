@@ -1,0 +1,13 @@
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Data.dll.config
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Data.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Data.pdb
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\EntityFramework.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Model.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Model.pdb
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\FPT.Model.dll.config
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\EntityFramework.xml
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\obj\Debug\FPT.Data.csprojResolveAssemblyReference.cache
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\obj\Debug\FPT.Data.dll
+C:\Users\typha\documents\visual studio 2017\Projects\FPT\FPT.Data\obj\Debug\FPT.Data.pdb

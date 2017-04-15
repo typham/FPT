@@ -1,0 +1,4 @@
+c:\users\typha\documents\visual studio 2017\Projects\FPT\FPT.Common\bin\Debug\FPT.Common.dll
+c:\users\typha\documents\visual studio 2017\Projects\FPT\FPT.Common\bin\Debug\FPT.Common.pdb
+c:\users\typha\documents\visual studio 2017\Projects\FPT\FPT.Common\obj\Debug\FPT.Common.dll
+c:\users\typha\documents\visual studio 2017\Projects\FPT\FPT.Common\obj\Debug\FPT.Common.pdb

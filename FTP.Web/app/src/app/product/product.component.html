@@ -1,0 +1,19 @@
+<div class="action">
+  <button type="submit" (click)="changeState('add')" [hidden]="state != 'normal'">Add new</button>
+  <button type="submit" (click)="save()" [hidden]="state == 'normal'">Save</button>
+  <button type="button" (click)="changeState('normal')" [hidden]="state == 'normal'">Cancel</button>
+</div>
+
+<form [hidden]="state == 'normal'">
+  <input type="text" name="Name" [(ngModel)]="product.Name" placeholder="Name"><br><br>
+  <input type="text" name="Price" [(ngModel)]="product.Price" placeholder="Price"><br><br>
+  <input type="text" name="Description" [(ngModel)]="product.Description" placeholder="Description">
+</form>
+
+<div *ngFor="let product of products" class="product-item" [hidden]="state != 'normal'">
+  <p>{{product.Name}}</p>
+  <strong>{{product.Price}}</strong>
+  
+  <div class="btn-edit" (click)="detailProduct(product)">&#x270D;</div>
+  <div class="btn-delete" (click)="delete(product)">&#x2716;</div>
+</div>

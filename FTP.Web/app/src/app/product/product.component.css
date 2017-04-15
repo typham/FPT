@@ -1,0 +1,9 @@
+.btn-delete, .btn-edit {
+    background:#f00;
+    color:#fff;
+    font-weight: bold;
+    text-align: center;
+    padding:5px;
+    cursor: pointer;
+    margin:2px 0;
+}

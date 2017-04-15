@@ -1,0 +1,6 @@
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\bin\Debug\FPT.Test.dll
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\bin\Debug\FPT.Test.pdb
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\bin\Debug\nunit.framework.dll
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\bin\Debug\nunit.framework.xml
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\obj\Debug\FPT.Test.dll
+C:\Users\typha\Documents\Visual Studio 2017\Projects\FPT\FPT.Test\obj\Debug\FPT.Test.pdb

@@ -1,0 +1,22 @@
+.menu {
+    clear:both;
+}
+
+.menu a {
+    display: inline-block;
+    text-decoration: none;
+    background:#f00;
+    color:#fff;
+    font-weight: bold;
+    padding:10px 20px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+
+
+.menu a:hover, .menu a.active {
+    background:#00f;
+}

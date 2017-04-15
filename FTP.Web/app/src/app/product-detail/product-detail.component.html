@@ -1,0 +1,9 @@
+<div class="action">
+  <button type="submit" (click)="save()">Save</button>
+</div>
+
+<form>
+  <input type="text" name="Name" [(ngModel)]="product.Name" placeholder="Name"><br><br>
+  <input type="text" name="Price" [(ngModel)]="product.Price" placeholder="Price"><br><br>
+  <input type="text" name="Description" [(ngModel)]="product.Description" placeholder="Description">
+</form>

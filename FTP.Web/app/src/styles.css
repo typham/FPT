@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.action {
+    margin:20px 0;
+}
+
+.action button {
+    border:none;
+    background:#f00;
+    color:#fff;
+    border-radius:2px;
+    padding:5px;
+    box-shadow: 2px 2px 2px #f00;
+    cursor:pointer
+}
+
+.product-item {
+    float:left;
+    padding:5px;
+    margin:5px;
+    border:2px solid #f00;
+}
